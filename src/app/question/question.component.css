@@ -1,0 +1,18 @@
+.card{
+    
+   /* background-color: rgb(245, 230, 101);*/
+    max-width:800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+li{
+    list-style-type:none;
+}
+li .card:hover{
+    border: 1px solid blue;
+}
+ ol{padding: 10;}
+  .question{
+      padding: 5pt;
+     background-color: rgb(243, 187, 113);
+ }
